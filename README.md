@@ -2,7 +2,7 @@
 
 **CSE 208 - Algorithms**
 
-This repository showcases implementations and analyses of "fundamental sorting algorithms," "graph traversal techniques," "dynamic programming solutions for optimization problems" 
+This repository showcases implementations and analyses of "fundamental sorting algorithms," "graph traversal techniques," "MST", "dynamic programming solutions for optimization problems" 
 
 **Key Highlights:**
 
